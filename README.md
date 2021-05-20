@@ -36,12 +36,12 @@ If `Anaconda` doesn't appear on the first line, you are using a different versio
 4. Click `New Notebook`, which should open a new page.
 
 # Usage
-- Clone the repository. using `! Git Clone https://github.com/bhattbhavesh91/cowin-vaccination-slot-availability.git `
+- Clone the repository. using ```bash ! Git Clone https://github.com/Puneesh6280/Cowin-vaccine-tracker.git ```
 - The tool only works with Indian IP addresses so disconnect your VPN if needed.
-- Enter the command - `cd cowin-vaccination-slot-availability/`
-- Install all the dependencies - `! pip3 install -r requirements.txt`
+- Enter the command - ``` bash cd Cowin vaccine tracker```
+- Install all the dependencies - ```bash pip install -r requirements.txt```
 - Run Anaconda Promt (Run as Administrator) From Start Menu.
-- Go to your Directory Eg `cd C:\Users\lenovo\Desktop\Jupyter Notebooks\2021\Cowin\cowin-vaccination-slot-availability`
+- Go to your Directory Eg ``` bash cd Cowin vaccine tracker```
 - Run `streamlit run app.py`
 
 -   You can now view your Streamlit app in your browser.
